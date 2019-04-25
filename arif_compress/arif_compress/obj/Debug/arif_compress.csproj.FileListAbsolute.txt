@@ -1,0 +1,7 @@
+C:\Users\diana\OneDrive\Рабочий стол\Учеба\цои\arif_compress\arif_compress\bin\Debug\arif_compress.exe.config
+C:\Users\diana\OneDrive\Рабочий стол\Учеба\цои\arif_compress\arif_compress\bin\Debug\arif_compress.exe
+C:\Users\diana\OneDrive\Рабочий стол\Учеба\цои\arif_compress\arif_compress\bin\Debug\arif_compress.pdb
+C:\Users\diana\OneDrive\Рабочий стол\Учеба\цои\arif_compress\arif_compress\obj\Debug\arif_compress.csprojAssemblyReference.cache
+C:\Users\diana\OneDrive\Рабочий стол\Учеба\цои\arif_compress\arif_compress\obj\Debug\arif_compress.csproj.CoreCompileInputs.cache
+C:\Users\diana\OneDrive\Рабочий стол\Учеба\цои\arif_compress\arif_compress\obj\Debug\arif_compress.exe
+C:\Users\diana\OneDrive\Рабочий стол\Учеба\цои\arif_compress\arif_compress\obj\Debug\arif_compress.pdb
